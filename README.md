@@ -2,6 +2,7 @@
 
 # Lab | Web Scraping with Selenium
 
+
 ![nosotros chorizeando datos](https://conceptodefinicion.de/wp-content/uploads/2017/10/Data_Mining.jpg)
 
 ## Introduction
