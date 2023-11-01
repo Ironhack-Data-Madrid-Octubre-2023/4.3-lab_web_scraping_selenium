@@ -14,7 +14,7 @@ Now that you already figured out how to scrape data from the web using `Beautifu
 
 In this lab, you will practice a series of exercises to test your web scraping skills. You will work on your own but remember the teaching staff is at your service whenever you encounter problems.
 
-
+web scraping 24/7
 
 
 
