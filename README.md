@@ -18,7 +18,7 @@ In this lab, you will practice a series of exercises to test your web scraping s
 
 
 
-## Deliverables
+## Deliverables :(
 
 - `main.ipynb` with your responses to each of the exercises.
 
